@@ -29,7 +29,7 @@ The solution is a test file that implements the 6 tests described in "./guide.ht
 
 The solution file - "./test.js" - is configured to be able to run with the 4 most popular web browsers: Safari, Chrome, Microsoft Edge, Firefox.
 
-##### To run the test with Safari:
+#### To run the test with Safari:
 1. Open Safari and go to Safari > Advanced > Show Develop menu in menu bar
 2. Still in Safari, go to Develop > Allow Remote Automation
 3. Uncomment line 167 in ./test.js
@@ -37,19 +37,19 @@ The solution file - "./test.js" - is configured to be able to run with the 4 mos
 5. Run this command in the repository directory:
 #### `npm test`
 
-##### To run the test with Chrome:
+#### To run the test with Chrome:
 1. Uncomment line 170 in ./test.js
 2. Comment out other lines that start with "describe..."
 3. Run this command in the repository directory:
 #### `npm test`
 
-##### To run the test with Microsoft Edge:
+#### To run the test with Microsoft Edge:
 1. Uncomment line 173 in ./test.js
 2. Comment out other lines that start with "describe..."
 3. Run this command in the repository directory:
 #### `npm test`
 
-##### To run the test with Firefox:
+#### To run the test with Firefox:
 1. Uncomment line 176 in ./test.js
 2. Comment out other lines that start with "describe..."
 3. Run this command in the repository directory:

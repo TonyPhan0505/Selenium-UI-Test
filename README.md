@@ -1,7 +1,9 @@
 ## Technical Assessment for Quality Engineer Co-Op at Resolver
 - Candidate's name: Tony Phan
 - Legal name: Binh Phan
-- Email: tonyphan05052003@gmail.com
+- University: University of Alberta
+- Primary email: tonyphan05052003@gmail.com
+- Secondary email: bhphan@ualberta.ca
 - Date of completion: Nov 1st 2024
 - Description: This is Tony Phan's solution for the assessment to test the understanding and capabilities of a potential automation engineer candidate. The solution is written in test.js.
 

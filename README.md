@@ -6,7 +6,7 @@
 - Secondary email: bhphan@ualberta.ca
 - LinkedIn: https://www.linkedin.com/in/tony-phan-988849142/
 - Date of completion: Nov 1st 2024
-- Description: This is Tony Phan's solution for the assessment to test the understanding and capabilities of a potential automation engineer candidate. The solution is written in JavaScript using Selenium.
+- Description: This is Tony Phan's solution for the assessment to test the understanding and capabilities of a potential automation engineer candidate. The solution is written in JavaScript (Node.js v20.5.0) using Selenium.
 
 ## Repository's structure
 #### Given files: 

@@ -1,0 +1,16 @@
+{
+  "name": "resolver-technical-assessment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js --timeout 11000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "selenium-webdriver": "^4.26.0",
+    "mocha": "10.7.3"
+  }
+}

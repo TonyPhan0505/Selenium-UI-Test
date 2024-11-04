@@ -38,21 +38,24 @@ The solution file - "./test.js" - is configured to be able to run with the 4 mos
 #### `npm test`
 
 #### To run the tests with Chrome:
-1. Uncomment line 170 in ./test.js
-2. Comment out other lines that start with "describe..."
-3. Run this command in the repository directory:
+1. Open Chrome
+2. Uncomment line 170 in ./test.js
+3. Comment out other lines that start with "describe..."
+4. Run this command in the repository directory:
 #### `npm test`
 
 #### To run the tests with Microsoft Edge:
-1. Uncomment line 173 in ./test.js
-2. Comment out other lines that start with "describe..."
-3. Run this command in the repository directory:
+1. Open Microsoft Edge
+2. Uncomment line 173 in ./test.js
+3. Comment out other lines that start with "describe..."
+4. Run this command in the repository directory:
 #### `npm test`
 
 #### To run the tests with Firefox:
-1. Uncomment line 176 in ./test.js
-2. Comment out other lines that start with "describe..."
-3. Run this command in the repository directory:
+1. Open Firefox
+2. Uncomment line 176 in ./test.js
+3. Comment out other lines that start with "describe..."
+4. Run this command in the repository directory:
 #### `npm test`
 
 ## Additional notes

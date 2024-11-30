@@ -1,13 +1,3 @@
-## Technical Assessment for Quality Engineer Co-Op at Resolver
-- Candidate's name: Tony Phan
-- Legal name: Binh Phan
-- University: University of Alberta
-- Primary email: tonyphan05052003@gmail.com
-- Secondary email: bhphan@ualberta.ca
-- LinkedIn: https://www.linkedin.com/in/tony-phan-988849142/
-- Date of completion: Nov 1st 2024
-- Description: This is Tony Phan's solution for the assessment to test the understanding and capabilities of a potential automation engineer candidate. The solution is written in JavaScript (Node.js v20.5.0) using Selenium.
-
 ## Repository's structure
 #### Given files: 
 #### `./guide.html`
@@ -57,6 +47,3 @@ The solution file - "./test.js" - is configured to be able to run with the 4 mos
 3. Comment out other lines that start with "describe..."
 4. Run this command in the repository directory:
 #### `npm test`
-
-## Additional notes
-Thank you very much for this opportunity. If I am lucky to be moved forward to the next round, please contact me via the email address specified above. Thanks again for your time and consideration.
